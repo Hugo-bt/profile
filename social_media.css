@@ -1,0 +1,36 @@
+.social_media {
+  padding: 30px;
+  background-color:radial-gradient(ellipse at bottom, #0d1d31 0%, #0c0d13 100%);
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+.social_media h2 {
+  font-size: 1.5rem;
+  color: #f1f5f9;
+  margin-bottom: 20px;
+}
+
+.social_media ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.social_media li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.social_media li a {
+  color: #f1f5f9;
+  font-size: 1.5rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  cursor: pointer;
+}
+
+.social_media li a:hover i {
+  color: #0d6b51;
+  transform: scale(1.15);
+}

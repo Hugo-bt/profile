@@ -1,0 +1,28 @@
+.hobbies {
+  background-color: radial-gradient(ellipse at bottom, #0d1d31 0%, #0c0d13 100%);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+.hobbies h2 {
+  font-size: 1.5rem;
+  color: #f1f5f9;
+  margin-bottom: 20px;
+}
+
+.hobbies {
+  margin-bottom: 25px;
+}
+
+.hobbies h3 {
+  font-size: 1.2rem;
+  color: #0d6b51;
+  margin-bottom: 10px;
+}
+
+.hobbies p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #d1dbd5;
+}
